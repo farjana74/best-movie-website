@@ -1,0 +1,41 @@
+.cart img{
+    width:200px;
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 250px;
+    
+}
+.cart{
+    /* border:5px solid #5b7183; */
+    text-align: center;
+    border-radius: 10px;
+    /* height: 00px; */
+    height:550px;
+    /* background-color:#a3b4c0 ; */
+    /* color:white; */
+    box-shadow: cornflowerblue;
+    padding-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.button{
+    background-color:#3b4c5a;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    color:white;
+    cursor: pointer;
+    border:2px solid white;
+    font-size: medium;
+}
+.fa-facebook{
+    width:50px;
+    margin-right: 20px;
+    font-size: 30px;
+    color:#3b4c5a;
+    margin-bottom: 10px;
+}
+.fa-instagram-square{
+    font-size: 30px;
+    color:#3b4c5a;
+}

@@ -1,0 +1,24 @@
+.header{
+    text-align: center;
+    background-color: #3b4c5a;
+    color:white;
+    padding-bottom:10px;
+}
+.header input{
+    width:75%;
+    line-height: 30px;
+    border-radius: 10px;
+    border:2px solid #808080;
+    padding: 10px;
+    font-size: medium;
+  
+    
+}
+.btn{
+    width:100px;
+    line-height: 30px;
+    padding: 10px;
+    font-size:medium ;
+    border-radius:10px ;
+    cursor: pointer;
+}
